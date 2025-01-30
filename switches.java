@@ -1,6 +1,6 @@
 public class switches {
     public static void main(String[] args) {
-        String day = "Friday";
+        String day = "Box";
         switch (day) {
             case "Monday":
                 System.out.println("Pharmacology");
